@@ -100,7 +100,7 @@ Prompt en inglés (ejecutado en la herramienta):
 Audios
 Audio 1 — ¿Qué es el Flujo de Fondos?
 Parámetro	Valor
-Herramienta	TTSMaker
+Herramienta	ElevenLabs
 Voz	Roger - Laid-Back, Casual, Resonant
 Velocidad	Normal (1x)
 Idioma	Español
@@ -153,7 +153,7 @@ Justificación de herramientas utilizadas
 Herramienta	Rol en el proyecto	Justificación
 Claude (Anthropic)	LLM principal — co-creación y redacción	Capacidad de razonamiento estructurado, soporte nativo de español rioplatense, acceso gratuito vía claude.ai
 Bing Image Creator (DALL-E 3)	Generación de imágenes	Gratuita, sin registro adicional, calidad superior a alternativas libres, accesible desde Argentina
-TTSMaker	Generación de audio	100% gratuita, sin límite de caracteres, soporte de español con voces naturales, sin necesidad de cuenta
+| **ElevenLabs** | Generación de audio | Versión gratuita disponible, voces naturales de alta calidad, soporte de español, interfaz intuitiva |
 Decisión sobre idioma de prompts
 Los prompts fueron redactados en español como idioma nativo del proyecto y traducidos al inglés para su ejecución en las herramientas de imagen, dado que los modelos generativos presentan mejor rendimiento con prompts en ese idioma. Esta decisión se documenta de forma transparente como parte del proceso de Prompt Engineering.
 ---
