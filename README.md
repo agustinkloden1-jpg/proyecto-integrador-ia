@@ -128,18 +128,22 @@ Script utilizado:
 >
 > Como analista, tu rol es identificar esos desvíos, entender por qué ocurrieron y comunicarlos con claridad a tu equipo. Esta tarea es clave durante el cierre mensual y es una de las habilidades más valoradas en el área de administración y finanzas.
 ---
-🖼️ Sección 4 — Galería de Activos
-Imágenes generadas
-Asset	Concepto	Herramienta
-Imagen 1	Flujo de Fondos	Bing Image Creator (DALL-E 3)
-Imagen 2	Análisis de Desvíos	Bing Image Creator (DALL-E 3)
-Imagen 3	Cierre Mensual	Bing Image Creator (DALL-E 3)
-> 📎 *Las imágenes se encuentran en la carpeta `/assets/images/` de este repositorio.*
-Audios generados
-Asset	Concepto	Herramienta
-Audio 1	¿Qué es el Flujo de Fondos?	TTSMaker
-Audio 2	¿Qué es el Análisis de Desvíos?	TTSMaker
-> 📎 *Los archivos de audio se encuentran en la carpeta `/assets/audio/` de este repositorio.*
+## 🖼️ Sección 4 — Galería de Activos
+
+### Imágenes generadas
+
+| Asset | Concepto | Herramienta | Vista previa |
+|-------|----------|-------------|--------------|
+| [1.jpg](https://github.com/agustinkloden1-jpg/proyecto-integrador-ia/blob/main/1.jpg) | Flujo de Fondos | Bing Image Creator (DALL-E 3) | ![Flujo de Fondos](https://raw.githubusercontent.com/agustinkloden1-jpg/proyecto-integrador-ia/main/1.jpg) |
+| [2.jpg](https://github.com/agustinkloden1-jpg/proyecto-integrador-ia/blob/main/2.jpg) | Análisis de Desvíos | Bing Image Creator (DALL-E 3) | ![Análisis de Desvíos](https://raw.githubusercontent.com/agustinkloden1-jpg/proyecto-integrador-ia/main/2.jpg) |
+| [3.jpg](https://github.com/agustinkloden1-jpg/proyecto-integrador-ia/blob/main/3.jpg) | Cierre Mensual | Bing Image Creator (DALL-E 3) | ![Cierre Mensual](https://raw.githubusercontent.com/agustinkloden1-jpg/proyecto-integrador-ia/main/3.jpg) |
+
+### Audios generados
+
+| Asset | Concepto | Herramienta | Enlace |
+|-------|----------|-------------|--------|
+| Audio 1 | ¿Qué es el Flujo de Fondos? | ElevenLabs | [Descargar](https://github.com/agustinkloden1-jpg/proyecto-integrador-ia/blob/main/ElevenLabs_2026-04-23T20_36_24_Roger%20-%20Laid-Back%2C%20Casual%2C%20Resonant_pre_sp100_s50_sb75_se0_b_m2.mp3) |
+| Audio 2 | ¿Qué es el Análisis de Desvíos? | ElevenLabs | [Descargar](https://github.com/agustinkloden1-jpg/proyecto-integrador-ia/blob/main/ElevenLabs_2026-04-23T20_35_11_Roger%20-%20Laid-Back%2C%20Casual%2C%20Resonant_pre_sp100_s50_sb75_se0_b_m2.mp3) |
 ---
 ⚖️ Sección 5 — Reflexión Ética y Técnica
 Matriz de riesgos y mitigaciones
