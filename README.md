@@ -2,16 +2,16 @@
 Curso de Inteligencia Artificial Aplicada
 ---
 📋 Sección 1 — Ficha Técnica
-Problema que resuelve
+Problema que resuelve:
 Las áreas de Administración y Finanzas de empresas medianas enfrentan alta rotación en posiciones júnior. Los nuevos analistas llegan sin manejo práctico de herramientas clave ni de conceptos financieros operativos. El onboarding actual es informal, verbal y no escalable.
-Solución propuesta
+Solución propuesta:
 Un sistema de capacitación asistido por IA que combina materiales visuales y cápsulas de audio para acelerar el onboarding de analistas administrativo-financieros júnior, cubriendo conceptos como flujo de fondos, análisis de desvíos y cierre mensual.
-Objetivos
+Objetivos:
 Diseñar un conjunto de materiales didácticos generados con IA sobre conceptos financieros clave
 Producir imágenes que ilustren procesos financieros (flujo de fondos, desvíos, cierre mensual)
 Generar clips de audio con explicaciones accesibles para perfiles júnior
 Documentar el proceso completo con criterios éticos aplicados
-Persona de la IA configurada
+Persona de la IA configurada:
 > **Rol:** Asistente especializado en capacitación corporativa para el área de Administración y Finanzas.
 >
 > **Función:** Diseñar materiales didácticos claros y accesibles para analistas júnior que se incorporan a empresas medianas. Con dominio de conceptos como flujo de fondos, estados de resultados, análisis de desvíos, cierre mensual, presupuesto y variaciones.
@@ -19,7 +19,7 @@ Persona de la IA configurada
 > **Tono:** Lenguaje preciso pero accesible, sin jerga innecesaria, adaptado a personas con conocimientos teóricos básicos pero sin experiencia operativa.
 ---
 🧠 Sección 2 — Bitácora de Prompt Engineering
-Instrucciones Base
+Instrucciones Base:
 (System prompt utilizado para configurar el LLM en todas las interacciones del proyecto)
 ```
 Sos un asistente especializado en capacitación corporativa para el área de Administración y Finanzas.
@@ -33,7 +33,7 @@ explicaciones a personas con conocimientos teóricos básicos pero sin experienc
 Cuando generás contenido visual o auditivo, priorizás la claridad, la neutralidad cultural 
 y la inclusión.
 ```
-Prompt Maestro
+Prompt Maestro:
 (Plantilla base utilizada para derivar todos los prompts específicos del proyecto)
 ```
 Contexto: Estoy desarrollando un sistema de onboarding asistido por IA para analistas 
@@ -57,9 +57,9 @@ Refinamiento de los prompts de imagen (decisión de usar versión en español + 
 Configuración de parámetros de audio y selección de voz
 ---
 📂 Sección 3 — Catálogo de Prompts y Parámetros
-Imágenes
+Imágenes:
 Imagen 1 — Flujo de Fondos
-Parámetro	Valor
+Parámetro	Valor:
 Herramienta	Bing Image Creator
 Modelo	DALL-E 3
 Seed	No disponible (limitación de la herramienta)
@@ -97,7 +97,7 @@ Prompt en español:
 Prompt en inglés (ejecutado en la herramienta):
 > A flat design illustration of a monthly financial close process. A timeline with 4 steps: data collection, account reconciliation, report generation, and management review. Icons for each step, corporate blue and grey palette, clean and modern style. No real names or logos. White background.
 ---
-Audios
+Audios:
 Audio 1 — ¿Qué es el Flujo de Fondos?
 Parámetro	Valor
 Herramienta	ElevenLabs
