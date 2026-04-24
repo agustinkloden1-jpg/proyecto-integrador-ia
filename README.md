@@ -2,10 +2,13 @@
 Curso de Inteligencia Artificial Aplicada
 ---
 📋 Sección 1 — Ficha Técnica
+
 Problema que resuelve:
 Las áreas de Administración y Finanzas de empresas medianas enfrentan alta rotación en posiciones júnior. Los nuevos analistas llegan sin manejo práctico de herramientas clave ni de conceptos financieros operativos. El onboarding actual es informal, verbal y no escalable.
+
 Solución propuesta:
 Un sistema de capacitación asistido por IA que combina materiales visuales y cápsulas de audio para acelerar el onboarding de analistas administrativo-financieros júnior, cubriendo conceptos como flujo de fondos, análisis de desvíos y cierre mensual.
+
 Objetivos:
 Diseñar un conjunto de materiales didácticos generados con IA sobre conceptos financieros clave
 Producir imágenes que ilustren procesos financieros (flujo de fondos, desvíos, cierre mensual)
